@@ -22,7 +22,7 @@ int main () {
 
 ### Markdown
 
-Infos sind [hier] (https://guides.github.com/features/mastering-markdown/) zu finden.
+Infos sind [hier](https://guides.github.com/features/mastering-markdown/) zu finden.
 
 ## Wichtiges
 Besonders wichtig ist **Pünktlichkeit**
